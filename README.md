@@ -2,7 +2,8 @@
 To identify the facial expressions given at runtime using web-cam
 
 ###### ABOUT DATASET:
-Dataset(FER 2013) Link :  https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+Dataset(FER 2013) Link :  https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge.
+
 Dataset consists of 48x48 pixel grayscale images of faces.
 
 In this repository, I used Convolution Neural Network to get the facial expression of faces present in the image.
